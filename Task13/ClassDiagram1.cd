@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task13.MyNewCollection">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Task13.MyNewCollection.CollectionHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyNewCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAAIAAAAIACAAABAEAACAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MyNewCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task13.MyCollection">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Interface Name="Task13.MyCollection.IEnumerator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+      <Interface Name="Task13.MyCollection.IEnumerable" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAQAAgAAIQAAABBAAAQEAAAABAAAAEAAA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task13.JournalEntry">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAICAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JournalEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task13.Journal">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAIAAAEAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Journal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task13.CollectionHandlerEventArgs">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAICAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollectionHandlerEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
